@@ -10,4 +10,6 @@
 
 @interface UserActivity : NSObject
 
++ (NSNumber*) SystemIdleTime;
+
 @end
